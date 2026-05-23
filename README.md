@@ -115,4 +115,4 @@ Cara deploy ulang:
 
 ---
 
-> Proyek ini dibuat untuk memenuhi tugas Project-Based Learning mata kuliah Pemrograman Web.
+> Proyek ini dibuat untuk memenuhi tugas Project-Based Learning mata kuliah Perancangan Web.
