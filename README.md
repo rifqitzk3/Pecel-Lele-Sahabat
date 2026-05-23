@@ -44,10 +44,10 @@ Website ini dibuat untuk membantu **UMKM Pecel Lele Sahabat** dalam mempromosika
 
 ## Teknologi yang Digunakan
 
-- **HTML5** — Struktur halaman
-- **CSS3** — Tampilan dan animasi (tanpa framework)
-- **JavaScript (Vanilla)** — Interaksi form, modal, dan validasi
-- Tidak menggunakan backend atau database — murni website statis
+- **HTML5** - Struktur halaman
+- **CSS3** - Tampilan dan animasi (tanpa framework)
+- **JavaScript (Vanilla)** - Interaksi form, modal, dan validasi
+- Tidak menggunakan backend atau database - murni website statis
 
 ---
 
