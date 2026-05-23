@@ -1,4 +1,4 @@
-# 🍽️ Pecel Lele Sahabat — Website UMKM
+# 🍽️ Pecel Lele Sahabat - Website UMKM
 
 > Website statis untuk mempromosikan warung Pecel Lele Sahabat secara online, dilengkapi dengan informasi menu, galeri foto, testimoni pelanggan, dan pemesanan langsung via WhatsApp.
 
