@@ -96,7 +96,7 @@ cd pecel-lele-sahabat
 
 Website di-deploy secara gratis menggunakan **Netlify**.
 
-🌐 **Live Demo:** [https://pecellelesahabat.netlify.app](pecellelesahabat.netlify.app)
+🌐 **Live Demo:** [pecellelesahabat.netlify.app](https://pecellelesahabat.netlify.app)
 
 ---
 
