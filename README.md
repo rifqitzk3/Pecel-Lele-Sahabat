@@ -96,12 +96,7 @@ cd pecel-lele-sahabat
 
 Website di-deploy secara gratis menggunakan **Netlify**.
 
-🌐 **Live Demo:** [pecel-lele-sahabat.netlify.app](https://pecel-lele-sahabat.netlify.app)
-
-Cara deploy ulang:
-1. Buka [netlify.com](https://netlify.com)
-2. Drag & drop folder `perweb` ke dashboard Netlify
-3. Website langsung online
+🌐 **Live Demo:** [pecel-lele-sahabat.netlify.app](pecellelesahabat.netlify.app)
 
 ---
 
